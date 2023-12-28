@@ -6,10 +6,10 @@ import MarkdownIt from "markdown-it";
 import type { FeedOptions, Item } from "feed";
 import { Feed } from "feed";
 
-const DOMAIN = "https://valar.top";
+const DOMAIN = "http://blog.youthsweet.com";
 const AUTHOR = {
   name: "Valar",
-  email: "rongchuancui@gmail.com",
+  email: "2292752593@qq.com",
   link: DOMAIN,
 };
 const OPTIONS: FeedOptions = {
@@ -24,8 +24,8 @@ const OPTIONS: FeedOptions = {
     rss: DOMAIN + "/feed.xml",
   },
   author: AUTHOR,
-  image: "https://valar.top/horse.svg",
-  favicon: "https://valar.top/horse.svg",
+  image: "http://blog.youthsweet.com/horse.svg",
+  favicon: "http://blog.youthsweet.com/horse.svg",
 };
 
 const markdown = MarkdownIt({
