@@ -66,7 +66,7 @@ async function config() {
         },
         {
           text: "🔥RSS",
-          link: "https://valar.top/feed.xml",
+          link: "http://blog.youthsweet.com/feed.xml",
         },
       ],
       socialLinks: [
