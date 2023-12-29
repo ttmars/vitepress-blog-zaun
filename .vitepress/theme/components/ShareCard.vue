@@ -4,7 +4,7 @@
       <span>Hi, I'm Valar 👋</span>
     </h1>
     <p class="description">
-      A frontend developer(he/him) who is building in web3.
+      It is not too late to seek a newer world.
     </p>
   </div>
 </template>

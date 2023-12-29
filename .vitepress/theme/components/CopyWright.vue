@@ -1,8 +1,8 @@
 <template>
   <footer>
     Powered by
-    <a href="https://github.com/valar/" target="_blank" title="作者"
-      >valar</a
+    <a href="https://github.com/ttmars/" target="_blank" title="作者"
+      >ttmars</a
     >
     | Copyright © 2019-{{ date }} | MIT License
   </footer>
