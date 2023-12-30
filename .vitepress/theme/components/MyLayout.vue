@@ -8,7 +8,7 @@
       <div>
         <button @click="back">cd ··</button>
       </div>
-      <!-- <Comments /> -->
+      <Comments />
     </template>
     <!-- Home slot-->
     <template #home-hero-before><HomeHero /> </template>
@@ -21,7 +21,7 @@
 import DefaultTheme from "vitepress/theme";
 import HomeHero from "./HomeHero.vue";
 import CopyWright from "./CopyWright.vue";
-// import Comments from "./Comments.vue";
+import Comments from "./Comments.vue";
 import Page from "./Page.vue";
 import Category from "./Category.vue";
 import Title from "./Title.vue";
