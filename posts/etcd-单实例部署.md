@@ -6,7 +6,7 @@ tags:
   - etcd
 ---
 
-# 1. 二进制安装
+### 1. 二进制安装
 
 截止到2023.12.30，etcd最新版本为v3.5.11
 
@@ -18,9 +18,7 @@ tags:
 ./etcd  --advertise-client-urls='http://0.0.0.0:2379'  --listen-client-urls='http://0.0.0.0:2379'
 ```
 
-
-
-# 2. 参考资料
+### 2. 参考资料
 
 - https://github.com/etcd-io/etcd/releases
 - https://etcd.io/docs/v3.5/install/
