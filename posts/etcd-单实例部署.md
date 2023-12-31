@@ -1,6 +1,6 @@
 ---
-title: etcd单实例部署
-description: etcd单实例部署
+title: etcd-单实例部署
+description: etcd-单实例部署
 date: 2023-12-30
 tags:
   - etcd
