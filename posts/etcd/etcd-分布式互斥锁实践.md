@@ -133,7 +133,7 @@ func f(n int) {
 
 
 
-# 3. 参考资料
+### 3. 参考资料
 
 - https://etcd.io/docs/v3.5/dev-guide/api_concurrency_reference_v3/
 - https://juejin.cn/post/7062900835038003208
